@@ -1,0 +1,3 @@
+<template>
+    Food Diary
+</template>
